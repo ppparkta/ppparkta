@@ -6,5 +6,6 @@
 - [velog](https://velog.io/@ppparkta)
 - Painting
 - Running
+- atching esports
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=92chanum)](https://solved.ac/92chanum/) <img src="http://mazandi.herokuapp.com/api?handle=92chanum&theme=warm"/> 
