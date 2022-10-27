@@ -7,4 +7,4 @@
 - 
 - 
 ### BOJ
-<img src="http://mazandi.herokuapp.com/api?handle=92chanum&theme=warm"/> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=92chanum)](https://solved.ac/92chanum/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=92chanum)](https://solved.ac/92chanum/) <img src="http://mazandi.herokuapp.com/api?handle=92chanum&theme=warm"/> 
