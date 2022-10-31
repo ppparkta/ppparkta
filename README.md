@@ -7,4 +7,4 @@
 - 달리기🏃‍♀️
 - 이스포츠 감상🕹
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=92chanum)](https://solved.ac/92chanum/) <img src="http://mazandi.herokuapp.com/api?handle=92chanum&theme=warm"/> 
+<img src="http://mazandi.herokuapp.com/api?handle=92chanum&theme=warm"/> 
