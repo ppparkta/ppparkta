@@ -4,7 +4,7 @@
 ### 취미
 - [블로그](https://velog.io/@ppparkta) 글쓰기
 - 그림그리기
-- 달리기🏃‍♀️
-- 이스포츠 감상🕹
+- 달리기
+- 이스포츠 감상
 
 <img src="http://mazandi.herokuapp.com/api?handle=92chanum&theme=warm"/> 
