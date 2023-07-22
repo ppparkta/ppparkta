@@ -6,7 +6,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppparkta&theme=solarized-light&show_icons=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppparkta&layout=compact)<br/>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=92chanum)
 
 ### About Me
 ![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pppppark2@gmail.com)
