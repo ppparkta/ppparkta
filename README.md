@@ -5,7 +5,7 @@
 ![로고명](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![로고명](https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![로고명](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppparkta&theme=solarized-light&show_icons=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppparkta&layout=compact&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppparkta&layout=compact)<br/>
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=92chanum)
 
 ### About Me
