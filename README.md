@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-### Welcome! I'm SOOBIN YANG 
+Welcome! I'm SOOBIN YANG 
 
 ### Stacks
 ![로고명](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=&logoColor=white) ![로고명](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white) ![로고명](https://img.shields.io/badge/python-0091EA.svg?&style=for-the-badge&logo=python&logoColor=white) ![로고명](https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white) <br>
