@@ -6,7 +6,7 @@
 ![로고명](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![로고명](https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![로고명](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppparkta&show_icons=true&theme=radical)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=93chanum)](https://solved.ac/92chanum/)  
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=93chanum)(https://solved.ac/92chanum/) 
 
 ### About Me
-![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pppppark2@gmail.com)
+![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pppppark2@gmail.com)(pppppark2@gmail.com)
