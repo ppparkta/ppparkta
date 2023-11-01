@@ -1,8 +1,27 @@
-### Welcome! I'm SOOBIN YANG 
+## Welcome! I'm SOOBIN YANG
 
-### Stacks
-![로고명](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=&logoColor=white) ![로고명](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white) ![로고명](https://img.shields.io/badge/python-0091EA.svg?&style=for-the-badge&logo=python&logoColor=white) ![로고명](https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white) <br>
-![로고명](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![로고명](https://img.shields.io/badge/css-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![로고명](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+### Technology Stack
+
+![Java](https://img.shields.io/badge/Java-blue)
+![Python](https://img.shields.io/badge/Python-blue)
+![C/C++](https://img.shields.io/badge/C/C++-blue)<br>
+![Django](https://img.shields.io/badge/Django-green)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green)<br>
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-orange)
+![React.js](https://img.shields.io/badge/React.js-orange)<br>
+
+### Blog
+
+- [My Blog](https://velog.io/@ppparkta): Check out my articles! ☺️
+
+### Contact
+
+- Email: pppppark2@gmail.com
+- GitHub: [ppparkta](https://github.com/ppparkta)
+
+### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppparkta&theme=solarized-light&show_icons=true&hide=stars)<br/>
 
