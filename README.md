@@ -14,7 +14,7 @@
 
 ### Blog
 
-- [My Blog](https://velog.io/@ppparkta): Check out my articles! ☺️
+- [My Blog](https://velog.io/@ppparkta): Come visit my blog! ☺️
 
 ### Contact
 
