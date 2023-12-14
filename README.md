@@ -10,7 +10,6 @@
 ### ☘️ Blog
 
 [<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">](https://velog.io/@ppparkta) <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppparkta&show_icons=true&hide=stars)<br/>
 
 ### 🍀 Contact
 
