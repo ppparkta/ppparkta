@@ -1,4 +1,4 @@
-### Yang Subin  
+### Yang Subeen  
 A Backend Developer Who Thinks Beyond the First Step
 
 ## Tech Stack
